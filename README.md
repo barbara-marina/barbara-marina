@@ -5,7 +5,7 @@
 
 - 📫 Para entrar em contato pode enviar e-mail para **barbaramarinaufsm@gmail.com**.
 
-- 📖 Curiosidade sobre mim... Sou apaixonada por **literatura fantástica e distópica.**.
+- 📖 Curiosidade sobre mim... Sou apaixonada por **literatura fantástica e distópica**.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
