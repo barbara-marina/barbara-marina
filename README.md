@@ -1,5 +1,5 @@
 <h1>Oie 🖐🏽, eu sou Bárbara Marina!</h1>
-<h3>Sou uma desenvolvedora Web FullStak em formação.</h3>
+<h3>Sou Desenvolvedora Web FullStak.</h3>
 
 - 🛰️ Também sou estudante no curso de **Engenharia Aeroespacial na UFSM**.
 
