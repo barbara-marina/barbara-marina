@@ -3,8 +3,6 @@
 
 💻 Sou técnica em informática e estudante de Engenharia Aeroespacial na UFSM.
 
-☘️ Curiosidades sobre mim: sou apaixonada por animais e por livros, especialmente literatura fantástica e distópica.
-
 ##
 ##
 
